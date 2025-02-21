@@ -29,6 +29,12 @@
             "composer/package-versions-deprecated": true
         }
     },
+    "repositories": {
+        "laminas-api-tools-api-problem": {
+            "type": "vcs",
+            "url": "https://github.com/rapidmail/laminas-api-tools-api-problem"
+        }
+    },
     "extra": {
         "laminas": {
             "module": "Laminas\\ApiTools\\Hal"
