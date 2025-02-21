@@ -47,7 +47,6 @@
         "laminas/laminas-stdlib": "^3.0.1",
         "laminas/laminas-uri": "^2.5.2",
         "laminas/laminas-view": "^2.11.4",
-        "laminas/laminas-zendframework-bridge": "^1.0",
         "psr/link": "^1.0 || ^2.0"
     },
     "require-dev": {
